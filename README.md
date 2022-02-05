@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Immacio
 - 👀 I’m interested in Blockchain and Web3 development.
-- 🌱 Currently learning Solidity, React and Next.js
+- 🌱 Currently learning React
 - 💞️ I’m looking to collaborate on NFT, DeFi and dApp projects.
 
 <!---
