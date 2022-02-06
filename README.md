@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Immacio
 - 👀 I’m interested in Blockchain and Web3 development.
 - 🌱 Currently learning React
-- 💞️ I’m looking to collaborate on NFT, DeFi and dApp projects.
+
 
 <!---
 Immacio/Immacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
