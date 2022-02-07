@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Immacio
-- 👀 I’m interested in Blockchain and Web3 development.
-- 🌱 Currently learning React
+
 
 
 <!---
