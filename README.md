@@ -5,7 +5,7 @@
 
 - 🔭 Currently a Frontend Engineer @ **App Bar**
 
-- 🤝 Proficient in **React/Next/React-Native**
+- 🤝 Proficient in **React/Next/TypeScript/React-Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
